@@ -30,4 +30,5 @@ const FAQItem = ({ question, answer }) => {
   );
 };
 
+
 export default FAQItem;
